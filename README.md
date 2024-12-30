@@ -32,4 +32,3 @@
      "ghcr.libcuda.so": "https://ghcr.io",
    };
    ```
-
