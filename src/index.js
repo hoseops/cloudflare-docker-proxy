@@ -5,6 +5,7 @@ addEventListener("fetch", (event) => {
 
 const dockerHub = "https://registry-1.docker.io";
 
+
 const routes = {
   "docker.hose.cloud": dockerHub,
   "quay.hose.cloud": "https://quay.io",
